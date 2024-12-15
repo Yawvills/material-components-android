@@ -1,5 +1,5 @@
 <!--docs:
-title: "Carousel"
+title: "Vills
 layout: detail
 section: components
 excerpt: "Carousels contain a collection of items that can move into or out of view.
@@ -7,7 +7,7 @@ iconId: carousel
 path: /catalog/carousel/
 -->
 
-# Carousel
+# Vills search 
 
 Carousels contain a collection of items that can move into or out of view
 
